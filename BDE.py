@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+
+
+2# -*- coding: utf-8 -*-
 """
 Created on Tue Sep 17 17:26:25 2024
 
@@ -41,8 +43,7 @@ if MPBH3_enthalpy is not None and MP_enthalpy is not None and BH3_enthalpy is no
     # Print the result
     print(f"B-N Bond Dissociation Energy: {bond_dissociation_energy} kJ/mol")
 else:
-    print("Error: Unable to extract enthalpy values from one or more files.")
-
+    print("Error: Unable to extract enthalpy values from one or more file'')
 
 
 
